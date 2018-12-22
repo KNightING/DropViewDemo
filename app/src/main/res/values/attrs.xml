@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DropTextureView">
+        <attr name="quantity" format="integer"/>
+        <attr name="auto" format="boolean"/>
+    </declare-styleable>
+
+
+</resources>
